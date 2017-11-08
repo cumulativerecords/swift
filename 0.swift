@@ -32,13 +32,13 @@
 // Use one input for singleWeekFieldHoursWorked
 
 // For Supervised Fieldwork, use 5 percent variable
-var fivePercentTo1500IndieTrack = \( singleWeekFieldHoursWorked * .05 )
+var fivePercentTo1500IndieTrack = \( singleWeekFieldHoursWorked * 0.05 )
 
 //For Practicum, use 7.5 percent variable
-var sevenHalfPercentTo1000PracticumTrack = \( singleWeekFieldHoursWorked * .075 )
+var sevenHalfPercentTo1000PracticumTrack = \( singleWeekFieldHoursWorked * 0.075 )
 
 // For Intensive Practicum, use 10 percent variable
-var tenPercentTo750IntensiveTrack = \( singleWeekFieldHoursWorked * .1 )
+var tenPercentTo750IntensiveTrack = \( singleWeekFieldHoursWorked * 0.1 )
 
 
 //Step
